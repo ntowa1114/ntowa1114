@@ -74,6 +74,7 @@
 ## ✉️ Contact
 
 - GitHub: https://github.com/ntowa1114
+- E-mail: ntowa041114@gmail.com
 
 ---
 
