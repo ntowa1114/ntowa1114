@@ -77,7 +77,7 @@
 
 - GitHub: https://github.com/ntowa1114
 - E-mail: ntowa041114@gmail.com
-- X : @VDesksetup5561
+- X : https://X.com/@VDesksetup5561
 
 ---
 
