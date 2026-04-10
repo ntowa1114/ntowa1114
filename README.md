@@ -14,8 +14,10 @@
 -  **佐古研究室 所属**
 -  **福岡県出身 / 東京都在住**
 -  **基本情報技術者試験 合格（2023年8月）**
-- **AWS認定クラウドプラクティショナー 合格（2026年4月）**
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30">
+-- **AWS認定クラウドプラクティショナー 合格（2026年4月）**
+  <a href="あなたのCredly証明書のURL">
+    <img src="https://images.credly.com/images/0063d974-0b30-4240-bc82-30588a506168/image.png" width="80">
+  </a>
 - **AWS SAA、応用情報技術者試験の合格に向けて勉強中**
 
 ---
