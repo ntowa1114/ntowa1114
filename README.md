@@ -15,7 +15,7 @@
 -  **福岡県出身 / 東京都在住**
 -  **基本情報技術者試験 合格（2023年8月）**
 -   **AWS認定クラウドプラクティショナー 合格（2026年4月）**
-  <a href="あなたのCredly証明書のURL">
+  <a href="https://www.credly.com/badges/8381d34d-520b-4abe-83f6-84381647f648/public_url">
     <img src="https://images.credly.com/images/0063d974-0b30-4240-bc82-30588a506168/image.png" width="80">
   </a>
 - **AWS SAA、応用情報技術者試験の合格に向けて勉強中**
