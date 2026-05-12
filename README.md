@@ -72,7 +72,20 @@
     価格・スペック・レビューを比較し、  
     AIによる判断・アドバイスを提示するWebアプリ
   - 使用技術：Next.js / TypeScript / OpenAI API / Cheerio
-
+  - 
+- 📅 シフト希望テキスト生成Webアプリ
+  バイトのシフト希望の日程・時間帯を入力するだけで
+  店長への送信用テキストを自動生成し、
+  ワンタップでコピーできるWebアプリ
+  - 使用技術：Next.js / TypeScript / Tailwind CSS / shadcn/ui
+  - https://shiftokuru.vercel.app/
+- 🎸 **TABTube**
+  - ギター・ベースのTAB譜付きYouTube動画を
+    一元管理・検索できるWebアプリ
+    楽器・アーティスト名・曲名での絞り込みや
+    動画の登録・ソート・ページネーションに対応
+  - 使用技術：Next.js / TypeScript / Tailwind CSS / Express / PostgreSQL
+  - https://tab-tube.vercel.app/
 ---
 
 ## ✉️ Contact
