@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 -  **早稲田大学 基幹理工学部 情報理工学科 B4/修士0年**
 -  **佐古研究室 所属**
@@ -23,7 +23,7 @@
 -  AWS SAA、応用情報技術者試験の合格に向けて勉強中
 
 ---
-## 🛠️ Skills & Tech Stack
+##  Skills & Tech Stack
 
 ### Languages
 ![My Skills](https://skillicons.dev/icons?i=c,html,java,python,sql)
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Interests
+##  Interests
 
 - Webアプリケーション開発（Next.js / React）
 - UI・UX設計
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
@@ -69,19 +69,19 @@
 
 ## 📌 Featured Project
 
-- 🛒 **Amazon商品比較Webアプリ**
+-  **Amazon商品比較Webアプリ**
   - Amazonの商品URLを2つ入力することで  
     価格・スペック・レビューを比較し、  
     AIによる判断・アドバイスを提示するWebアプリ
   - 使用技術：Next.js / TypeScript / OpenAI API / Cheerio
   - 
-- 📅 シフト希望テキスト生成Webアプリ
+-  シフト希望テキスト生成Webアプリ
   バイトのシフト希望の日程・時間帯を入力するだけで
   店長への送信用テキストを自動生成し、
   ワンタップでコピーできるWebアプリ
   - 使用技術：Next.js / TypeScript / Tailwind CSS / shadcn/ui
   - https://shiftokuru.vercel.app/
-- 🎸 **TABTube**
+-  **TABTube**
   - ギター・ベースのTAB譜付きYouTube動画を
     一元管理・検索できるWebアプリ
     楽器・アーティスト名・曲名での絞り込みや
@@ -90,7 +90,7 @@
   - https://tab-tube.vercel.app/
 ---
 
-## ✉️ Contact
+##  Contact
 
 - GitHub: https://github.com/ntowa1114
 - E-mail: ntowa041114@gmail.com
