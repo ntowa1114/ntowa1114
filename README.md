@@ -18,7 +18,9 @@
    <a href="https://www.credly.com/badges/8381d34d-520b-4abe-83f6-84381647f648/public_url" target="_blank">
      <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40" align="center">
    </a>
--  **AWS SAA、応用情報技術者試験の合格に向けて勉強中**
+-  チャンネル登録者1.3万↑人のYouTubeチャンネルを運営
+-  YouTubeの楽譜動画まとめ,練習用サイト「TABTube」を運営
+-  AWS SAA、応用情報技術者試験の合格に向けて勉強中
 
 ---
 ## 🛠️ Skills & Tech Stack
@@ -40,12 +42,12 @@
 
 ---
 
-## 🎸 Hobbies
+##  Hobbies
 
-- エレキギター
-- 音楽を聴くこと
-- ドライブ
-- ネットショッピング
+- Playing the Guitar
+- Attending live concerts
+- Driving
+- programming
 
 ---
 
