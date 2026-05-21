@@ -14,8 +14,8 @@
 -  2027年4月~ 早稲田大学 大学院 情報理工・情報通信専攻に進学予定
 -  **佐古和恵研究室 所属** 暗号技術を研究
 -  **福岡県出身 / 東京都在住**
--  **基本情報技術者試験 合格（2023年8月）**
--  **AWS認定クラウドプラクティショナー 合格（2026年4月）**
+-  **基本情報技術者試験 取得（2023年8月）**
+-  **AWS認定クラウドプラクティショナー 取得（2026年4月）**
    <a href="https://www.credly.com/badges/8381d34d-520b-4abe-83f6-84381647f648/public_url" target="_blank">
      <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40" align="center">
    </a>
