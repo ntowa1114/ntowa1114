@@ -1,12 +1,7 @@
 <!-- ヘッダー（Capsule Render） -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff)
 
-<!-- タイピングエフェクト -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Towa+Nakamuta;Waseda+University+CS+Student;Web+Application+Developer" />
-</p>
 
----
 
 ##  About Me
 
