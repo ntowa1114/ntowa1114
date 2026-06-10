@@ -1,5 +1,4 @@
-<!-- ヘッダー（Capsule Render） -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff)
+
 
 
 
