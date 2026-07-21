@@ -14,7 +14,7 @@
      <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40" align="center">
    </a>
 - サイバーアドベンチャー2026 ピッチコンテスト第3位
--　<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FJCI.JAPAN%2Fposts%2Fpfbid0guK4556ZarAHpo9BhvghFKXQhk8XZzSCpwFw76TAVXr9LjuLbV2QVaeXMi2UCH37l&show_text=true&width=500" width="500" height="760" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+-　<frame src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FJCI.JAPAN%2Fposts%2Fpfbid0guK4556ZarAHpo9BhvghFKXQhk8XZzSCpwFw76TAVXr9LjuLbV2QVaeXMi2UCH37l&show_text=true&width=500" width="500" height="760" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></frame>
 -  チャンネル登録者1.3万↑人のYouTubeチャンネルを運営
 -  YouTubeの楽譜動画まとめ,練習用サイト「TABTube」を運営
 -  AWS SAA、応用情報技術者試験の合格に向けて勉強中
