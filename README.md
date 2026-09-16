@@ -23,18 +23,17 @@
 ##  Skills & Tech Stack
 
 ### Languages
-![My Skills](https://skillicons.dev/icons?i=c,html,java,python,sql)
+![My Skills](https://skillicons.dev/icons?i=c,html,java,python,sql,nextjs,js,ts,md,nodejs,notion,ocaml,py,swift,vercel,wordpress,supabase)
 
-### Currently Learning
-![Learning](https://skillicons.dev/icons?i=nextjs,css,typescript,react,aws)
 
 ---
 
 ##  Interests
 
-- Webアプリケーション開発（Next.js / React）
-- UI・UX設計
-- AIを活用したアプリケーション開発
+- Webアプリケーション開発
+- iOSアプリケーション開発
+- 拡張機能設計
+- アプリケーション開発
 - AWSクラウド
 
 ---
