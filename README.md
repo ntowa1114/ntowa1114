@@ -38,4 +38,3 @@
 
 <!-- Footer -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2a5298,100:1e3c72\&height=120\&section=footer)
