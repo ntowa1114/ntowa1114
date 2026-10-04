@@ -1,89 +1,41 @@
+## About Me
 
+* **B4 / Master's Program (from April 2027), School of Fundamental Science and Engineering, Waseda University**
+* Planning to enter the **Graduate School of Fundamental Science and Engineering, Waseda University** in April 2027
+* **Member of the Sako Kazue Laboratory**, researching cryptography and cybersecurity
+* Research interests: **RSA cryptography, lattice-based cryptography, 3D Secure, passkeys, and public-key cryptography**
+* **Born in Fukuoka, Japan / Based in Tokyo, Japan**
+* **Fundamental Information Technology Engineer Examination (FE)** — August 2023
+* **AWS Certified Cloud Practitioner** — April 2026
 
+<a href="https://www.credly.com/badges/8381d34d-520b-4abe-83f6-84381647f648/public_url" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40" align="center">
+</a>
 
+* **3rd Place**, Cyber Adventure 2026 Pitch Contest
+* Run a YouTube channel with **13,000+ subscribers**
+* Interested in **gadgets and desk setups**
 
-##  About Me
+### Featured Article
 
--  **早稲田大学 基幹理工学部 情報理工学科 B4/修士0年**
--  2027年4月~ 早稲田大学 大学院 情報理工・情報通信専攻に進学予定
--  **佐古和恵研究室 所属** 暗号技術を研究
-- 研究分野:RSA暗号,格子暗号,3Dセキュア,パスキー,公開鍵暗号
--  **福岡県出身 / 東京都在住**
--  **基本情報技術者試験 取得（2023年8月）**
--  **AWS認定クラウドプラクティショナー 取得（2026年4月）**
-   <a href="https://www.credly.com/badges/8381d34d-520b-4abe-83f6-84381647f648/public_url" target="_blank">
-     <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40" align="center">
-   </a>
-- サイバーアドベンチャー2026 ピッチコンテスト第3位
--　<frame src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FJCI.JAPAN%2Fposts%2Fpfbid0guK4556ZarAHpo9BhvghFKXQhk8XZzSCpwFw76TAVXr9LjuLbV2QVaeXMi2UCH37l&show_text=true&width=500" width="500" height="760" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></frame>
--  チャンネル登録者1.3万↑人のYouTubeチャンネルを運営
-
-ガジェット、デスク周り
-- [【2026年版】大学4年生のバイト代を全部注ぎ込んだデスク周り愛用品紹介](https://qiita.com/void_nat4/items/d36a1a9d101284dcd34d)]
----
-##  Skills & Tech Stack
-
-### Languages
-![My Skills](https://skillicons.dev/icons?i=c,html,java,python,sql,nextjs,js,ts,md,nodejs,notion,ocaml,py,swift,vercel,wordpress,supabase)
-
+* [My Favorite Desk Setup Items — A College Student's Desk Setup in 2026](https://qiita.com/void_nat4/items/d36a1a9d101284dcd34d)
 
 ---
 
-##  Interests
+## Skills & Tech Stack
 
-- Webアプリケーション開発
-- iOSアプリケーション開発
-- 拡張機能設計
-- アプリケーション開発
-- AWSクラウド
+### Languages & Technologies
+
+![My Skills](https://skillicons.dev/icons?i=c,html,java,python,sql,nextjs,js,ts,md,nodejs,notion,ocaml,swift,vercel,wordpress,supabase)
 
 ---
 
-##  Hobbies
+## Contact
 
-- Playing the Guitar
-- Attending live concerts
-- Driving
-- programming
+* **GitHub:** https://github.com/ntowa1114
+* **Email:** [ntowa041114@gmail.com](mailto:ntowa041114@gmail.com)
+* **X:** https://X.com/@VDesksetup5561
 
----
+<!-- Footer -->
 
-
-##  Featured Project
-
--  **Amazon商品比較Webアプリ**
-  - Amazonの商品URLを2つ入力することで  
-    価格・スペック・レビューを比較し、  
-    AIによる判断・アドバイスを提示するWebアプリ
-  - 使用技術：Next.js / TypeScript / OpenAI API / Cheerio
-  - 
--  シフト希望テキスト生成Webアプリ
-  バイトのシフト希望の日程・時間帯を入力するだけで
-  店長への送信用テキストを自動生成し、
-  ワンタップでコピーできるWebアプリ
-  - 使用技術：Next.js / TypeScript / Tailwind CSS / shadcn/ui
-  - https://shiftokuru.vercel.app/
--  **TABTube**
-  - ギター・ベースのTAB譜付きYouTube動画を
-    一元管理・検索できるWebアプリ
-    楽器・アーティスト名・曲名での絞り込みや
-    動画の登録・ソート・ページネーションに対応
-  - 使用技術：Next.js / TypeScript / Tailwind CSS / Express / PostgreSQL
-  - https://tab-tube.vercel.app/
----
--  **二郎系ラーメンSNS**
-   - 
-##  Contact
-
-- GitHub: https://github.com/ntowa1114
-- E-mail: ntowa041114@gmail.com
-- X : https://X.com/@VDesksetup5561
-
----
-
-<p align="center">
-  Thanks for visiting my profile 😊  
-</p>
-
-<!-- フッター -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2a5298,100:1e3c72\&height=120\&section=footer)
