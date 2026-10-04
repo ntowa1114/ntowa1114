@@ -30,11 +30,12 @@
 
 ---
 
-## Contact
+## Links
 
 * **GitHub:** https://github.com/ntowa1114
 * **Email:** [ntowa041114@gmail.com](mailto:ntowa041114@gmail.com)
 * **X:** https://X.com/@VDesksetup5561
-
+* **AtCoder:** https://atcoder.jp/users/nat04
+* **Qiita:** https://qiita.com/void_nat4
 <!-- Footer -->
 
