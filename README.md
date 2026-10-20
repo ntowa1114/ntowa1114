@@ -2,8 +2,10 @@
 
 * **B4 / Master's Program (from April 2027), School of Fundamental Science and Engineering, Waseda University**
 * Planning to enter the **Graduate School of Fundamental Science and Engineering, Waseda University** in April 2027
-* **Member of the Sako Kazue Laboratory**, researching cryptography and cybersecurity
-* Research interests: **RSA cryptography, lattice-based cryptography, 3D Secure, passkeys, and public-key cryptography**
+* **Member of the Sako Kazue Laboratory**
+* Research topic: EC Security,Web Skimming(Magecart)
+* 2026.10~ Software Engineering Intern (JOBCAN Attendance Management System)　Donuts Co. Ltd.
+* 
 * **Born in Fukuoka, Japan / Based in Tokyo, Japan**
 * **Fundamental Information Technology Engineer Examination (FE)** — August 2023
 * **AWS Certified Cloud Practitioner** — April 2026
